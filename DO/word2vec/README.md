@@ -55,3 +55,4 @@ In [3]: model = gensim.models.Wor
 至于word2vec有什么用，目前除了用来来计算词语相似度外，业界更关注的是word2vec在具体的应用任务中的效果，这个才是更有意思的东东，也欢迎大家一起探讨。
 
 https://www.cnblogs.com/iloveai/p/word2vec.html
+https://www.zhihu.com/question/44832436
